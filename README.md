@@ -181,4 +181,4 @@ MIT License
 
 ## 作者
 
-IBM MQ 系統架構師工具集
+Dennis and Bob
